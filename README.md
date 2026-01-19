@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on projects involving web applications, cloud solutions, and enterprise resource planning (ERP) systems.
 - 📫 How to reach me: email at hajarelmech@gmail.com .
 - 😄 Pronouns: She/Her.
-- ⚡ Fun fact: I love solving logic puzzles and coding challenges in my free time!
 
 <!---
 HAJAR759/HAJAR759 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
